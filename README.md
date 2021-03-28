@@ -1,6 +1,6 @@
 # Collateral Tracking 🍠
 
-Track your collateral ratio for minting select UMA synths (uStonks & uGas) to avoid liquidation. 📉 A Telegram bot 🤖 is used for message delivery sending an update on your collateral ratio's at specific times every day. All files that are needed to deploy this app to Heroku (free plan) are included in this repository.
+Track your collateral ratio for minting select UMA synths (uStonks & uGas) to avoid liquidation. 📉 A Telegram bot 🤖 is used for message delivery sending an update on your collateral ratio's at specific times every day. All files that are needed to deploy this app to Heroku (free plan - good for shorter term usage) are included in this repository.
 
 Instructions:
 
