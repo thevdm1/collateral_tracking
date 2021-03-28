@@ -5,5 +5,7 @@ Track your collateral ratio for minting select UMA synths (uStonks & uGas) to av
 Instructions:
 
 1.) Set up telegram bot for message delivery using this tutorial: https://www.youtube.com/watch?v=ps1yeWwd6iA&t=819s&ab_channel=VikasJha
+
 2.) Modify cr_monitor.py according to comments in the script
+
 3.) Create Heroku account and connect to the repository. Tutorial:  https://www.youtube.com/watch?v=iLvMYXKIcPo&ab_channel=AdriaanVanNiekerk
